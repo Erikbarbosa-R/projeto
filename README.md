@@ -1,2 +1,2 @@
-# projeto
-projetinho de card simples 
+# project
+simple card design
